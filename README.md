@@ -1,0 +1,1 @@
+This is Joel's first (actually 2nd, he forgot some things) git project!
